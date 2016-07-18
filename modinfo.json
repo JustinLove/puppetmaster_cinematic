@@ -1,0 +1,16 @@
+{
+  "author": "wondible",
+  "build": "94684",
+  "category": ["titans"],
+  "context": "server",
+  "date": "2016/07/18",
+  "dependencies": ["com.wondible.pa.puppetmaster"],
+  "description": "Removes laser site from Puppetmaster drop-pod effect",
+  "display_name": "Puppetmaster Cinematic Effects",
+  "forum": "https://forums.uberent.com/threads/rel-server-puppetmaster.62534/",
+  "icon": "http://wondible.com/pa/icons/puppetmaster.png",
+  "identifier": "com.wondible.pa.puppetmaster_cinematic",
+  "priority": 90,
+  "signature": "not yet implemented",
+  "version": "1.0.0"
+}

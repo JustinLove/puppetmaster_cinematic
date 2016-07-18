@@ -1,0 +1,9 @@
+{
+  "name": "puppetmaster",
+  "version": "0.0.0",
+  "devDependencies": {
+    "dateformat": "~1.0.7-1.2.3",
+    "grunt": "~0.4.2",
+    "grunt-contrib-copy": "~0.5.0"
+  }
+}
